@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BlazingTrails.Client.dll": "sha256-QWhg5AUvLeaQIijEyftVlPUdCbFh\/cbhTPCcCl0gOOQ=",
+      "BlazingTrails.Client.dll": "sha256-KHFRvrq7GfBkWVeY0DZ5uB0yGObP5\/\/\/8HZ6X3GfPfM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-N7aMBfz9Q3adte67e+gHWd0MxnCt7iz1tr0P82avmU4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-4FiU1L6qk6kvKw+uEb\/3vri0B0nzaC6ZnxkJl9Il4CA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-sjScP4nG2ui\/4DEgW7pM4SsHOyMqmaB3XbYqonX0ww0=",
